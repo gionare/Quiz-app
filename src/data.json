@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the primary responsibility of the police?",
+    "options": [
+      "Enforcing the law",
+      "Creating laws",
+      "Defending the country",
+      "Managing public transport"
+    ],
+    "correctAnswer": "Enforcing the law"
+  },
+  {
+    "question": "Which amendment to the U.S. Constitution protects against unreasonable searches and seizures?",
+    "options": [
+      "First Amendment",
+      "Fourth Amendment",
+      "Fifth Amendment",
+      "Eighth Amendment"
+    ],
+    "correctAnswer": "Fourth Amendment"
+  },
+  {
+    "question": "What is the Miranda warning?",
+    "options": [
+      "A court order",
+      "A statement read to suspects",
+      "A type of arrest warrant",
+      "A police rank"
+    ],
+    "correctAnswer": "A statement read to suspects"
+  },
+  {
+    "question": "Which agency is responsible for federal law enforcement in the United States?",
+    "options": ["FBI", "CIA", "NSA", "NASA"],
+    "correctAnswer": "FBI"
+  },
+  {
+    "question": "What does 'probable cause' refer to?",
+    "options": [
+      "A reasonable basis for making an arrest",
+      "A new law proposal",
+      "A police officer's opinion",
+      "A legal defense strategy"
+    ],
+    "correctAnswer": "A reasonable basis for making an arrest"
+  },
+  {
+    "question": "What is the main function of the DEA?",
+    "options": [
+      "Combating drug trafficking",
+      "Environmental protection",
+      "Tax collection",
+      "Fire safety"
+    ],
+    "correctAnswer": "Combating drug trafficking"
+  },
+  {
+    "question": "What is community policing?",
+    "options": [
+      "A style of policing that involves building ties with the community",
+      "A special police unit for high-crime areas",
+      "A type of neighborhood watch",
+      "A police training program"
+    ],
+    "correctAnswer": "A style of policing that involves building ties with the community"
+  },
+  {
+    "question": "Which law enforcement technique involves undercover officers posing as criminals?",
+    "options": ["Entrapment", "Stakeout", "Surveillance", "Decoy operation"],
+    "correctAnswer": "Decoy operation"
+  },
+  {
+    "question": "What does the term 'forensics' refer to in law enforcement?",
+    "options": [
+      "Scientific methods used to solve crimes",
+      "Legal advice for officers",
+      "Courtroom procedures",
+      "Police training"
+    ],
+    "correctAnswer": "Scientific methods used to solve crimes"
+  },
+  {
+    "question": "What is the primary purpose of a police patrol?",
+    "options": [
+      "To deter crime",
+      "To gather evidence",
+      "To make arrests",
+      "To issue tickets"
+    ],
+    "correctAnswer": "To deter crime"
+  }
+]
