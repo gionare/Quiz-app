@@ -1,5 +1,4 @@
 import { useState } from "react";
-import React from "react";
 import quizData from "../data.json";
 import Question from "./Question";
 
