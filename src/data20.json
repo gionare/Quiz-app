@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the primary goal of criminal investigations?",
+    "options": ["Solving crimes", "Building new police stations", "Enforcing traffic laws", "Training police officers"],
+    "correctAnswer": "Solving crimes"
+  },
+  {
+    "question": "Which amendment to the U.S. Constitution guarantees the right to a speedy trial?",
+    "options": ["Sixth Amendment", "First Amendment", "Fourth Amendment", "Eighth Amendment"],
+    "correctAnswer": "Sixth Amendment"
+  },
+  {
+    "question": "What does the term 'chain of custody' refer to in law enforcement?",
+    "options": [
+      "The documented process of evidence handling",
+      "The sequence of patrol shifts",
+      "The order of courtroom witnesses",
+      "The hierarchy of police command"
+    ],
+    "correctAnswer": "The documented process of evidence handling"
+  },
+  {
+    "question": "What is the main function of the Secret Service?",
+    "options": [
+      "Protecting national leaders and preventing counterfeiting",
+      "Investigating cyber crimes",
+      "Enforcing immigration laws",
+      "Managing national parks"
+    ],
+    "correctAnswer": "Protecting national leaders and preventing counterfeiting"
+  },
+  {
+    "question": "Which term refers to the principle that a person cannot be tried twice for the same crime?",
+    "options": ["Double jeopardy", "Habeas corpus", "Ex post facto", "Due process"],
+    "correctAnswer": "Double jeopardy"
+  },
+  {
+    "question": "What does 'SWAT' stand for in law enforcement?",
+    "options": [
+      "Special Weapons and Tactics",
+      "Surveillance Watch and Tracking",
+      "Strategic Warfare and Training",
+      "Special Warrant and Arrest Team"
+    ],
+    "correctAnswer": "Special Weapons and Tactics"
+  },
+  {
+    "question": "What is the primary role of a police detective?",
+    "options": [
+      "Investigating crimes and gathering evidence",
+      "Patrolling neighborhoods",
+      "Issuing traffic tickets",
+      "Providing legal advice"
+    ],
+    "correctAnswer": "Investigating crimes and gathering evidence"
+  },
+  {
+    "question": "Which of the following is a common tool used in crime scene investigation?",
+    "options": ["Fingerprint kit", "Handcuffs", "Patrol car", "Radar gun"],
+    "correctAnswer": "Fingerprint kit"
+  },
+  {
+    "question": "What is 'entrapment' in the context of law enforcement?",
+    "options": [
+      "Inducing someone to commit a crime they would not otherwise commit",
+      "Monitoring a suspect without their knowledge",
+      "Conducting a stakeout to observe criminal activity",
+      "Using decoys to catch criminals"
+    ],
+    "correctAnswer": "Inducing someone to commit a crime they would not otherwise commit"
+  },
+  {
+    "question": "What is the purpose of a police lineup?",
+    "options": [
+      "To allow witnesses to identify a suspect",
+      "To prepare officers for a raid",
+      "To train new recruits",
+      "To distribute patrol assignments"
+    ],
+    "correctAnswer": "To allow witnesses to identify a suspect"
+  }
+]
