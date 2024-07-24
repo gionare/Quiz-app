@@ -1,7 +1,7 @@
 [
   {
     "question": "What is the primary goal of criminal investigations?",
-    "options": ["Solving crimes", "Building new police stations", "Enforcing traffic laws", "Training police officers"],
+    "options": ["Building new police stations", "Solving crimes", "Enforcing traffic laws", "Training police officers"],
     "correctAnswer": "Solving crimes"
   },
   {
@@ -22,8 +22,8 @@
   {
     "question": "What is the main function of the Secret Service?",
     "options": [
-      "Protecting national leaders and preventing counterfeiting",
       "Investigating cyber crimes",
+      "Protecting national leaders and preventing counterfeiting",
       "Enforcing immigration laws",
       "Managing national parks"
     ],
@@ -37,9 +37,9 @@
   {
     "question": "What does 'SWAT' stand for in law enforcement?",
     "options": [
-      "Special Weapons and Tactics",
       "Surveillance Watch and Tracking",
       "Strategic Warfare and Training",
+      "Special Weapons and Tactics",
       "Special Warrant and Arrest Team"
     ],
     "correctAnswer": "Special Weapons and Tactics"
@@ -47,16 +47,16 @@
   {
     "question": "What is the primary role of a police detective?",
     "options": [
-      "Investigating crimes and gathering evidence",
       "Patrolling neighborhoods",
       "Issuing traffic tickets",
-      "Providing legal advice"
+      "Providing legal advice",
+      "Investigating crimes and gathering evidence"
     ],
     "correctAnswer": "Investigating crimes and gathering evidence"
   },
   {
     "question": "Which of the following is a common tool used in crime scene investigation?",
-    "options": ["Fingerprint kit", "Handcuffs", "Patrol car", "Radar gun"],
+    "options": ["Handcuffs", "Patrol car", "Fingerprint kit", "Radar gun"],
     "correctAnswer": "Fingerprint kit"
   },
   {
@@ -72,8 +72,8 @@
   {
     "question": "What is the purpose of a police lineup?",
     "options": [
-      "To allow witnesses to identify a suspect",
       "To prepare officers for a raid",
+      "To allow witnesses to identify a suspect",
       "To train new recruits",
       "To distribute patrol assignments"
     ],
